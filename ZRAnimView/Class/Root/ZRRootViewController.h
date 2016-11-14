@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ZRRootViewController.h
 //  ZRAnimView
 //
 //  Created by zR on 2016/11/14.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ZRRootViewController : UINavigationController
 
 @end
-
